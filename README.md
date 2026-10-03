@@ -1,7 +1,7 @@
 # Applied AI, Machine Learning & Computational Mathematics in Java
 
 A collection of algorithms and systems implemented in Java, exploring computer vision, supervised classification models, and analytical geometry.
-## Projects Overview
+## Included Projects
 
 ### 1. Facial Recognition System (`AI_FacialRecog`)
 An algorithmic solution developed to process visual features, detect facial structures, and perform identity matching based on input training datasets.
